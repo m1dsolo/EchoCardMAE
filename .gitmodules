@@ -1,0 +1,3 @@
+[submodule "yangdl"]
+	path = yangdl
+	url = https://github.com/m1dsolo/yangdl.git
